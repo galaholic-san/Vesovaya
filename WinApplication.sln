@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinApplication", "WinApplication\WinApplication.csproj", "{EEC7AFBD-7C23-40C2-9C06-CF1741757A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC7AFBD-7C23-40C2-9C06-CF1741757A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC7AFBD-7C23-40C2-9C06-CF1741757A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC7AFBD-7C23-40C2-9C06-CF1741757A02}.Debug|x64.ActiveCfg = Debug|x64
+		{EEC7AFBD-7C23-40C2-9C06-CF1741757A02}.Debug|x64.Build.0 = Debug|x64
+		{EEC7AFBD-7C23-40C2-9C06-CF1741757A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC7AFBD-7C23-40C2-9C06-CF1741757A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC7AFBD-7C23-40C2-9C06-CF1741757A02}.Release|x64.ActiveCfg = Release|x64
+		{EEC7AFBD-7C23-40C2-9C06-CF1741757A02}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F847F29-034A-4493-BE85-AD084E0E98F1}
+	EndGlobalSection
+EndGlobal
